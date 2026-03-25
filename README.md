@@ -70,6 +70,12 @@
 
 <br clear="both">
 
+### 🏢 Workplace
+
+  <a>
+    <img src="https://img.shields.io/badge/Frizpa_Studios-000000?style=for-the-badge&logo=framer&logoColor=white" height="35" />
+  </a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
