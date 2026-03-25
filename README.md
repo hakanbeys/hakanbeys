@@ -66,9 +66,6 @@
   <a href="https://instagram.com/borsaistanbultr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <a href="https://frizpa.com">
-    <img src="https://img.shields.io/badge/Frizpa_Studios-000000?style=for-the-badge&logo=framer&logoColor=white" height="35" />
-  </a>
 </div>
 
 <br clear="both">
