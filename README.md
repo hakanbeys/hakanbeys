@@ -4,7 +4,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbeys&theme=default" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/hakanbeys/count.svg?" alt="visitors count" />
 
 ### 🛠 Tech Stack
 
