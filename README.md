@@ -1,9 +1,10 @@
-<h2 align="left">Hi 👋! My name is Hakan and I'm a Prompt Engineer, from Turkey.</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakanbeys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hakanbeys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1> Hi!<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h2 align="left">My name is Hakan and I'm a Prompt Engineer, from Turkey.</h2>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hakanbeys&theme=default" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/hakanbeys/count.svg?" alt="visitors count" />
 
 ### 🛠 Tech Stack
 
@@ -69,6 +70,10 @@
 </div>
 
 <br clear="both">
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanbeys&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
 ### 🏢 Workplace
 
