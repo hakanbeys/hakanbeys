@@ -74,12 +74,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanbeys&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-### 🏢 Workplace
-
-  <a>
-    <img src="https://img.shields.io/badge/Frizpa_Studios-000000?style=for-the-badge&logo=framer&logoColor=white" height="35" />
-  </a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
