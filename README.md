@@ -59,10 +59,6 @@
 
 ### 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/hakansef/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-  </a>
   <a href="https://instagram.com/borsaistanbultr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
